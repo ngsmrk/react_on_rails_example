@@ -1,8 +1,8 @@
 import ReactOnRails from 'react-on-rails';
 
-import LandingPage from '../components/LandingPage';
+import Bob from '../components/Landing';
 
 // This is how react_on_rails can see the LandingPage in the browser.
 ReactOnRails.register({
-    LandingPage ,
+    Bob ,
 });
